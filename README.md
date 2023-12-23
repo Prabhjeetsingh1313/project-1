@@ -1,5 +1,6 @@
 # project-1
 bike riding project
+
 The presentation focuses on a data wrangling project analyzing bike riding data using Python's Pandas and NumPy libraries. It encompasses three main tasks:
 
 Data Acquisition and Wrangling for Dataset 1 & 2: Employing various techniques such as merging, dropping unnecessary columns, and exploring central tendency statistics to understand rental patterns.
